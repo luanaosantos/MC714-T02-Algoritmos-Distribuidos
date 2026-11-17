@@ -1,1 +1,1 @@
-# MC714---Trabalho-02---Algoritmos-Distribu-dos-
+# MC714 - Trabalho 02
