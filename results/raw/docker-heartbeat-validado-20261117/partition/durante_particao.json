@@ -1,0 +1,23 @@
+{
+  "no-1": {
+    "equipamento-17": {
+      "valor": "grupo-a",
+      "contador": 96,
+      "origem": "no-1"
+    }
+  },
+  "no-2": {
+    "equipamento-17": {
+      "valor": "grupo-b",
+      "contador": 96,
+      "origem": "no-2"
+    }
+  },
+  "no-3": {
+    "equipamento-17": {
+      "valor": "grupo-b",
+      "contador": 96,
+      "origem": "no-2"
+    }
+  }
+}

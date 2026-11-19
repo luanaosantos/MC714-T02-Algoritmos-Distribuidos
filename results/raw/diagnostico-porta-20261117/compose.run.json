@@ -1,0 +1,84 @@
+{
+  "services": {
+    "no-1": {
+      "image": "mc714-trabalho2:dev",
+      "environment": {
+        "NODE_ID": "no-1",
+        "PORT": "8000",
+        "PEERS": "{\"no-1\": \"http://no-1:8000\", \"no-2\": \"http://no-2:8000\", \"no-3\": \"http://no-3:8000\"}",
+        "RUN_ID": "diagnostico-porta-20261117",
+        "DATA_DIR": "/dados",
+        "LOG_DIR": "/logs",
+        "GOSSIP_INTERVAL": "0.1",
+        "GOSSIP_ENABLED": "0",
+        "HEARTBEAT_INTERVAL": "0.1",
+        "HEARTBEAT_TIMEOUT": "0.6",
+        "HEARTBEAT_ENABLED": "0",
+        "SEED": "1"
+      },
+      "ports": [
+        "127.0.0.1::8000"
+      ],
+      "volumes": [
+        "no-1-data:/dados",
+        "no-1-logs:/logs"
+      ]
+    },
+    "no-2": {
+      "image": "mc714-trabalho2:dev",
+      "environment": {
+        "NODE_ID": "no-2",
+        "PORT": "8000",
+        "PEERS": "{\"no-1\": \"http://no-1:8000\", \"no-2\": \"http://no-2:8000\", \"no-3\": \"http://no-3:8000\"}",
+        "RUN_ID": "diagnostico-porta-20261117",
+        "DATA_DIR": "/dados",
+        "LOG_DIR": "/logs",
+        "GOSSIP_INTERVAL": "0.1",
+        "GOSSIP_ENABLED": "0",
+        "HEARTBEAT_INTERVAL": "0.1",
+        "HEARTBEAT_TIMEOUT": "0.6",
+        "HEARTBEAT_ENABLED": "0",
+        "SEED": "1"
+      },
+      "ports": [
+        "127.0.0.1::8000"
+      ],
+      "volumes": [
+        "no-2-data:/dados",
+        "no-2-logs:/logs"
+      ]
+    },
+    "no-3": {
+      "image": "mc714-trabalho2:dev",
+      "environment": {
+        "NODE_ID": "no-3",
+        "PORT": "8000",
+        "PEERS": "{\"no-1\": \"http://no-1:8000\", \"no-2\": \"http://no-2:8000\", \"no-3\": \"http://no-3:8000\"}",
+        "RUN_ID": "diagnostico-porta-20261117",
+        "DATA_DIR": "/dados",
+        "LOG_DIR": "/logs",
+        "GOSSIP_INTERVAL": "0.1",
+        "GOSSIP_ENABLED": "0",
+        "HEARTBEAT_INTERVAL": "0.1",
+        "HEARTBEAT_TIMEOUT": "0.6",
+        "HEARTBEAT_ENABLED": "0",
+        "SEED": "1"
+      },
+      "ports": [
+        "127.0.0.1::8000"
+      ],
+      "volumes": [
+        "no-3-data:/dados",
+        "no-3-logs:/logs"
+      ]
+    }
+  },
+  "volumes": {
+    "no-1-data": {},
+    "no-1-logs": {},
+    "no-2-data": {},
+    "no-2-logs": {},
+    "no-3-data": {},
+    "no-3-logs": {}
+  }
+}

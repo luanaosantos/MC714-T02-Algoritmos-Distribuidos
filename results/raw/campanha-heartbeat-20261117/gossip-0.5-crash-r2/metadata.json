@@ -1,0 +1,55 @@
+{
+  "run_id": "gossip-0.5-crash-r2",
+  "nodes": [
+    "no-1",
+    "no-2",
+    "no-3"
+  ],
+  "config": {
+    "backend": "compose",
+    "nodes": 3,
+    "seed": 103,
+    "gossip_interval": 0.5,
+    "heartbeat_interval": 0.1,
+    "heartbeat_timeout": 3.0,
+    "warmup": 2,
+    "ambiente": "local-compose",
+    "gossip": true,
+    "heartbeat": false
+  },
+  "backend": "compose",
+  "python": "3.12.3 (main, Aug 31 2026, 10:18:26) [GCC 13.3.0]",
+  "os": "Linux-6.6.87.2-microsoft-standard-WSL2-x86_64-with-glibc2.39",
+  "cpu_count": 12,
+  "machine": "x86_64",
+  "hardware": {
+    "cpu_model": "AMD Ryzen 5 5600G with Radeon Graphics",
+    "memory_bytes": 8215805952
+  },
+  "source_sha256": "1fe9e3a10c8d1f9ee1c2c809091770decff7b7fbefde61030f1e439557dbadeb",
+  "inicio_utc": "2026-11-17T04:39:47Z",
+  "commit": null,
+  "docker_resources": {
+    "cpus": 12,
+    "memory_bytes": 8215805952,
+    "os": "Docker Desktop",
+    "kernel": "6.6.87.2-microsoft-standard-WSL2"
+  },
+  "docker_version": "{\"Client\":{\"Version\":\"29.9.3\",\"ApiVersion\":\"1.56\",\"DefaultAPIVersion\":\"1.56\",\"GitCommit\":\"5457199\",\"GoVersion\":\"go1.26.10\",\"Os\":\"linux\",\"Arch\":\"amd64\",\"BuildTime\":\"Tue Nov  3 21:42:08 2026\",\"Context\":\"default\"},\"Server\":{\"Platform\":{\"Name\":\"Docker Desktop 4.99.0 (245822)\"},\"Version\":\"29.9.3\",\"ApiVersion\":\"1.56\",\"MinAPIVersion\":\"1.40\",\"Os\":\"linux\",\"Arch\":\"amd64\",\"Components\":[{\"Name\":\"Engine\",\"Version\":\"29.9.3\",\"Details\":{\"ApiVersion\":\"1.56\",\"Arch\":\"amd64\",\"BuildTime\":\"Tue Nov  3 21:41:42 2026\",\"Experimental\":\"false\",\"GitCommit\":\"70efc0e\",\"GoVersion\":\"go1.26.10\",\"KernelVersion\":\"6.6.87.2-microsoft-standard-WSL2\",\"MinAPIVersion\":\"1.40\",\"Module\":\"github.com/moby/moby/v2\",\"ModuleVersion\":\"v2.0.0+unknown\",\"Os\":\"linux\"}},{\"Name\":\"containerd\",\"Version\":\"v2.4.2\",\"Details\":{\"GitCommit\":\"b7a25261e029d68978bbf290df0a62fc819b3c51\"}},{\"Name\":\"runc\",\"Version\":\"1.5.2\",\"Details\":{\"GitCommit\":\"v1.5.2-0-g29dd3dc2\"}},{\"Name\":\"docker-init\",\"Version\":\"0.19.0\",\"Details\":{\"GitCommit\":\"de40ad0\"}}],\"GitCommit\":\"70efc0e\",\"GoVersion\":\"go1.26.10\",\"KernelVersion\":\"6.6.87.2-microsoft-standard-WSL2\",\"BuildTime\":\"2026-11-03T21:41:42.000000000+00:00\"}}",
+  "compose_version": "Docker Compose version v5.7.0",
+  "image_id": "sha256:75f65bcd42eb64a6a7a5ffe2650e73697968c99d136aad58f6c0cda8e331af7a",
+  "docker_storage": "named volumes; exported after stop",
+  "application_runtime": {
+    "python": "3.12.16 (main, Nov  5 2026, 07:58:20) [GCC 14.2.0]",
+    "os": "Linux-6.6.87.2-microsoft-standard-WSL2-x86_64-with-glibc2.41"
+  },
+  "controller_runtime": {
+    "python": "3.12.3 (main, Aug 31 2026, 10:18:26) [GCC 13.3.0]",
+    "os": "Linux-6.6.87.2-microsoft-standard-WSL2-x86_64-with-glibc2.39"
+  },
+  "log_sha256": {
+    "no-1/logs/events.jsonl": "f2dc774cb45b9b0af76f20109a472ad0a547f461b366da291101ef08f3a3717f",
+    "no-2/logs/events.jsonl": "6ee6b17b1c3e4f0c128711b18c4daa73f2116d61b3cadb1dce48eabe7d21bd93",
+    "no-3/logs/events.jsonl": "b518f2aa38c5bb3677786b5f9d66910bdee7da3d351950339953bf61ff194bbd"
+  }
+}

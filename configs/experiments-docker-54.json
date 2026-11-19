@@ -1,0 +1,26 @@
+{
+  "repetitions": 3,
+  "seed": 101,
+  "warmup": 2,
+  "operations": 100,
+  "updates": 10,
+  "heartbeat_samples": 30,
+  "normal_duration": 5,
+  "levels": {
+    "lamport": [
+      3,
+      5,
+      7
+    ],
+    "gossip": [
+      0.2,
+      0.5,
+      1.0
+    ],
+    "heartbeat": [
+      1.5,
+      3.0,
+      6.0
+    ]
+  }
+}

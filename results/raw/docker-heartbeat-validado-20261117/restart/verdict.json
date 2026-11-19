@@ -1,0 +1,14 @@
+{
+  "cenario": "restart",
+  "ok": true,
+  "auditoria": {
+    "ok": true,
+    "erros": [],
+    "eventos": 423,
+    "envios": 113,
+    "recebimentos": 94,
+    "confirmacoes": 93,
+    "geracoes": 4
+  },
+  "duracao_s": 20.137679068997386
+}

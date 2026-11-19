@@ -1,0 +1,488 @@
+{
+  "gossip-0.2-crash-r0": {
+    "ok": true,
+    "erros": [],
+    "eventos": 202,
+    "envios": 56,
+    "recebimentos": 36,
+    "confirmacoes": 36,
+    "geracoes": 3
+  },
+  "gossip-0.2-crash-r1": {
+    "ok": true,
+    "erros": [],
+    "eventos": 180,
+    "envios": 49,
+    "recebimentos": 33,
+    "confirmacoes": 31,
+    "geracoes": 3
+  },
+  "gossip-0.2-crash-r2": {
+    "ok": true,
+    "erros": [],
+    "eventos": 190,
+    "envios": 52,
+    "recebimentos": 34,
+    "confirmacoes": 34,
+    "geracoes": 3
+  },
+  "gossip-0.2-normal-r0": {
+    "ok": true,
+    "erros": [],
+    "eventos": 261,
+    "envios": 62,
+    "recebimentos": 59,
+    "confirmacoes": 59,
+    "geracoes": 3
+  },
+  "gossip-0.2-normal-r1": {
+    "ok": true,
+    "erros": [],
+    "eventos": 259,
+    "envios": 62,
+    "recebimentos": 58,
+    "confirmacoes": 58,
+    "geracoes": 3
+  },
+  "gossip-0.2-normal-r2": {
+    "ok": true,
+    "erros": [],
+    "eventos": 239,
+    "envios": 57,
+    "recebimentos": 53,
+    "confirmacoes": 53,
+    "geracoes": 3
+  },
+  "gossip-0.5-crash-r0": {
+    "ok": true,
+    "erros": [],
+    "eventos": 136,
+    "envios": 34,
+    "recebimentos": 25,
+    "confirmacoes": 25,
+    "geracoes": 3
+  },
+  "gossip-0.5-crash-r1": {
+    "ok": true,
+    "erros": [],
+    "eventos": 139,
+    "envios": 39,
+    "recebimentos": 22,
+    "confirmacoes": 21,
+    "geracoes": 3
+  },
+  "gossip-0.5-crash-r2": {
+    "ok": true,
+    "erros": [],
+    "eventos": 132,
+    "envios": 33,
+    "recebimentos": 24,
+    "confirmacoes": 24,
+    "geracoes": 3
+  },
+  "gossip-0.5-normal-r0": {
+    "ok": true,
+    "erros": [],
+    "eventos": 207,
+    "envios": 48,
+    "recebimentos": 46,
+    "confirmacoes": 46,
+    "geracoes": 3
+  },
+  "gossip-0.5-normal-r1": {
+    "ok": true,
+    "erros": [],
+    "eventos": 225,
+    "envios": 52,
+    "recebimentos": 51,
+    "confirmacoes": 51,
+    "geracoes": 3
+  },
+  "gossip-0.5-normal-r2": {
+    "ok": true,
+    "erros": [],
+    "eventos": 223,
+    "envios": 51,
+    "recebimentos": 51,
+    "confirmacoes": 51,
+    "geracoes": 3
+  },
+  "gossip-1.0-crash-r0": {
+    "ok": true,
+    "erros": [],
+    "eventos": 112,
+    "envios": 29,
+    "recebimentos": 18,
+    "confirmacoes": 18,
+    "geracoes": 3
+  },
+  "gossip-1.0-crash-r1": {
+    "ok": true,
+    "erros": [],
+    "eventos": 118,
+    "envios": 33,
+    "recebimentos": 17,
+    "confirmacoes": 17,
+    "geracoes": 3
+  },
+  "gossip-1.0-crash-r2": {
+    "ok": true,
+    "erros": [],
+    "eventos": 107,
+    "envios": 28,
+    "recebimentos": 17,
+    "confirmacoes": 16,
+    "geracoes": 3
+  },
+  "gossip-1.0-normal-r0": {
+    "ok": true,
+    "erros": [],
+    "eventos": 155,
+    "envios": 34,
+    "recebimentos": 34,
+    "confirmacoes": 34,
+    "geracoes": 3
+  },
+  "gossip-1.0-normal-r1": {
+    "ok": true,
+    "erros": [],
+    "eventos": 163,
+    "envios": 36,
+    "recebimentos": 36,
+    "confirmacoes": 36,
+    "geracoes": 3
+  },
+  "gossip-1.0-normal-r2": {
+    "ok": true,
+    "erros": [],
+    "eventos": 147,
+    "envios": 32,
+    "recebimentos": 32,
+    "confirmacoes": 32,
+    "geracoes": 3
+  },
+  "heartbeat-1.5-crash-r0": {
+    "ok": true,
+    "erros": [],
+    "eventos": 306,
+    "envios": 56,
+    "recebimentos": 51,
+    "confirmacoes": 51,
+    "geracoes": 3
+  },
+  "heartbeat-1.5-crash-r1": {
+    "ok": true,
+    "erros": [],
+    "eventos": 218,
+    "envios": 52,
+    "recebimentos": 45,
+    "confirmacoes": 43,
+    "geracoes": 3
+  },
+  "heartbeat-1.5-crash-r2": {
+    "ok": true,
+    "erros": [],
+    "eventos": 196,
+    "envios": 49,
+    "recebimentos": 40,
+    "confirmacoes": 38,
+    "geracoes": 3
+  },
+  "heartbeat-1.5-normal-r0": {
+    "ok": true,
+    "erros": [],
+    "eventos": 166,
+    "envios": 31,
+    "recebimentos": 26,
+    "confirmacoes": 25,
+    "geracoes": 3
+  },
+  "heartbeat-1.5-normal-r1": {
+    "ok": true,
+    "erros": [],
+    "eventos": 894,
+    "envios": 192,
+    "recebimentos": 186,
+    "confirmacoes": 180,
+    "geracoes": 3
+  },
+  "heartbeat-1.5-normal-r2": {
+    "ok": true,
+    "erros": [],
+    "eventos": 1071,
+    "envios": 226,
+    "recebimentos": 222,
+    "confirmacoes": 217,
+    "geracoes": 3
+  },
+  "heartbeat-3.0-crash-r0": {
+    "ok": true,
+    "erros": [],
+    "eventos": 191,
+    "envios": 48,
+    "recebimentos": 39,
+    "confirmacoes": 38,
+    "geracoes": 3
+  },
+  "heartbeat-3.0-crash-r1": {
+    "ok": true,
+    "erros": [],
+    "eventos": 236,
+    "envios": 60,
+    "recebimentos": 53,
+    "confirmacoes": 51,
+    "geracoes": 3
+  },
+  "heartbeat-3.0-crash-r2": {
+    "ok": true,
+    "erros": [],
+    "eventos": 201,
+    "envios": 51,
+    "recebimentos": 44,
+    "confirmacoes": 43,
+    "geracoes": 3
+  },
+  "heartbeat-3.0-normal-r0": {
+    "ok": true,
+    "erros": [],
+    "eventos": 1139,
+    "envios": 283,
+    "recebimentos": 277,
+    "confirmacoes": 277,
+    "geracoes": 3
+  },
+  "heartbeat-3.0-normal-r1": {
+    "ok": true,
+    "erros": [],
+    "eventos": 1137,
+    "envios": 284,
+    "recebimentos": 279,
+    "confirmacoes": 279,
+    "geracoes": 3
+  },
+  "heartbeat-3.0-normal-r2": {
+    "ok": true,
+    "erros": [],
+    "eventos": 1233,
+    "envios": 309,
+    "recebimentos": 302,
+    "confirmacoes": 302,
+    "geracoes": 3
+  },
+  "heartbeat-6.0-crash-r0": {
+    "ok": true,
+    "erros": [],
+    "eventos": 345,
+    "envios": 90,
+    "recebimentos": 79,
+    "confirmacoes": 76,
+    "geracoes": 3
+  },
+  "heartbeat-6.0-crash-r1": {
+    "ok": true,
+    "erros": [],
+    "eventos": 342,
+    "envios": 89,
+    "recebimentos": 78,
+    "confirmacoes": 76,
+    "geracoes": 3
+  },
+  "heartbeat-6.0-crash-r2": {
+    "ok": true,
+    "erros": [],
+    "eventos": 374,
+    "envios": 96,
+    "recebimentos": 87,
+    "confirmacoes": 85,
+    "geracoes": 3
+  },
+  "heartbeat-6.0-normal-r0": {
+    "ok": true,
+    "erros": [],
+    "eventos": 1167,
+    "envios": 293,
+    "recebimentos": 286,
+    "confirmacoes": 286,
+    "geracoes": 3
+  },
+  "heartbeat-6.0-normal-r1": {
+    "ok": true,
+    "erros": [],
+    "eventos": 1189,
+    "envios": 298,
+    "recebimentos": 292,
+    "confirmacoes": 292,
+    "geracoes": 3
+  },
+  "heartbeat-6.0-normal-r2": {
+    "ok": true,
+    "erros": [],
+    "eventos": 1141,
+    "envios": 286,
+    "recebimentos": 280,
+    "confirmacoes": 280,
+    "geracoes": 3
+  },
+  "lamport-3-crash-r0": {
+    "ok": true,
+    "erros": [],
+    "eventos": 409,
+    "envios": 101,
+    "recebimentos": 100,
+    "confirmacoes": 100,
+    "geracoes": 3
+  },
+  "lamport-3-crash-r1": {
+    "ok": true,
+    "erros": [],
+    "eventos": 409,
+    "envios": 101,
+    "recebimentos": 100,
+    "confirmacoes": 100,
+    "geracoes": 3
+  },
+  "lamport-3-crash-r2": {
+    "ok": true,
+    "erros": [],
+    "eventos": 409,
+    "envios": 101,
+    "recebimentos": 100,
+    "confirmacoes": 100,
+    "geracoes": 3
+  },
+  "lamport-3-normal-r0": {
+    "ok": true,
+    "erros": [],
+    "eventos": 409,
+    "envios": 100,
+    "recebimentos": 100,
+    "confirmacoes": 100,
+    "geracoes": 3
+  },
+  "lamport-3-normal-r1": {
+    "ok": true,
+    "erros": [],
+    "eventos": 409,
+    "envios": 100,
+    "recebimentos": 100,
+    "confirmacoes": 100,
+    "geracoes": 3
+  },
+  "lamport-3-normal-r2": {
+    "ok": true,
+    "erros": [],
+    "eventos": 409,
+    "envios": 100,
+    "recebimentos": 100,
+    "confirmacoes": 100,
+    "geracoes": 3
+  },
+  "lamport-5-crash-r0": {
+    "ok": true,
+    "erros": [],
+    "eventos": 415,
+    "envios": 101,
+    "recebimentos": 100,
+    "confirmacoes": 100,
+    "geracoes": 5
+  },
+  "lamport-5-crash-r1": {
+    "ok": true,
+    "erros": [],
+    "eventos": 415,
+    "envios": 101,
+    "recebimentos": 100,
+    "confirmacoes": 100,
+    "geracoes": 5
+  },
+  "lamport-5-crash-r2": {
+    "ok": true,
+    "erros": [],
+    "eventos": 415,
+    "envios": 101,
+    "recebimentos": 100,
+    "confirmacoes": 100,
+    "geracoes": 5
+  },
+  "lamport-5-normal-r0": {
+    "ok": true,
+    "erros": [],
+    "eventos": 415,
+    "envios": 100,
+    "recebimentos": 100,
+    "confirmacoes": 100,
+    "geracoes": 5
+  },
+  "lamport-5-normal-r1": {
+    "ok": true,
+    "erros": [],
+    "eventos": 415,
+    "envios": 100,
+    "recebimentos": 100,
+    "confirmacoes": 100,
+    "geracoes": 5
+  },
+  "lamport-5-normal-r2": {
+    "ok": true,
+    "erros": [],
+    "eventos": 415,
+    "envios": 100,
+    "recebimentos": 100,
+    "confirmacoes": 100,
+    "geracoes": 5
+  },
+  "lamport-7-crash-r0": {
+    "ok": true,
+    "erros": [],
+    "eventos": 421,
+    "envios": 101,
+    "recebimentos": 100,
+    "confirmacoes": 100,
+    "geracoes": 7
+  },
+  "lamport-7-crash-r1": {
+    "ok": true,
+    "erros": [],
+    "eventos": 421,
+    "envios": 101,
+    "recebimentos": 100,
+    "confirmacoes": 100,
+    "geracoes": 7
+  },
+  "lamport-7-crash-r2": {
+    "ok": true,
+    "erros": [],
+    "eventos": 421,
+    "envios": 101,
+    "recebimentos": 100,
+    "confirmacoes": 100,
+    "geracoes": 7
+  },
+  "lamport-7-normal-r0": {
+    "ok": true,
+    "erros": [],
+    "eventos": 421,
+    "envios": 100,
+    "recebimentos": 100,
+    "confirmacoes": 100,
+    "geracoes": 7
+  },
+  "lamport-7-normal-r1": {
+    "ok": true,
+    "erros": [],
+    "eventos": 421,
+    "envios": 100,
+    "recebimentos": 100,
+    "confirmacoes": 100,
+    "geracoes": 7
+  },
+  "lamport-7-normal-r2": {
+    "ok": true,
+    "erros": [],
+    "eventos": 421,
+    "envios": 100,
+    "recebimentos": 100,
+    "confirmacoes": 100,
+    "geracoes": 7
+  }
+}

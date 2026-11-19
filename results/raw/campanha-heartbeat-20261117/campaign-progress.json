@@ -1,0 +1,9 @@
+{
+  "completa": true,
+  "executados_neste_lote": 54,
+  "concluidos": 54,
+  "ok": false,
+  "aprovados": 50,
+  "timeouts": 0,
+  "integridade_ok": false
+}

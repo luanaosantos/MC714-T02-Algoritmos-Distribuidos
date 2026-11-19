@@ -1,0 +1,13 @@
+{
+  "algoritmo": "heartbeat",
+  "nivel": 1.5,
+  "cenario": "normal",
+  "ok": false,
+  "amostras_ms": [
+    4068.31024
+  ],
+  "run_id": "heartbeat-1.5-normal-r0",
+  "seed": 101,
+  "environment": "local-compose",
+  "erro": "timed out"
+}

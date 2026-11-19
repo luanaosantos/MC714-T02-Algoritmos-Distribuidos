@@ -1,0 +1,11 @@
+{
+  "algoritmo": "heartbeat",
+  "nivel": 1.5,
+  "cenario": "crash",
+  "ok": false,
+  "amostras_ms": [],
+  "run_id": "heartbeat-1.5-crash-r0",
+  "seed": 101,
+  "environment": "local-compose",
+  "erro": "Suspeita ativa antes de iniciar o crash; detecção não pode ser medida neste ensaio."
+}

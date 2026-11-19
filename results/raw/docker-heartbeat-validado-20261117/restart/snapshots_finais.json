@@ -1,0 +1,23 @@
+{
+  "no-1": {
+    "equipamento-17": {
+      "valor": "manutencao",
+      "contador": 171,
+      "origem": "no-3"
+    }
+  },
+  "no-2": {
+    "equipamento-17": {
+      "valor": "manutencao",
+      "contador": 171,
+      "origem": "no-3"
+    }
+  },
+  "no-3": {
+    "equipamento-17": {
+      "valor": "manutencao",
+      "contador": 171,
+      "origem": "no-3"
+    }
+  }
+}

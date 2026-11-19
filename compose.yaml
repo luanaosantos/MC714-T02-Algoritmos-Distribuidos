@@ -1,0 +1,68 @@
+name: mc714-trabalho2
+
+x-ambiente: &ambiente
+  PORT: "8000"
+  PEERS: >-
+    {"no-1":"http://node1:8000",
+     "no-2":"http://node2:8000",
+     "no-3":"http://node3:8000"}
+  GOSSIP_INTERVAL: "${GOSSIP_INTERVAL:-1.0}"
+  GOSSIP_ENABLED: "${GOSSIP_ENABLED:-1}"
+  SEED: "${SEED:-1}"
+  HEARTBEAT_INTERVAL: "${HEARTBEAT_INTERVAL:-0.3}"
+  HEARTBEAT_TIMEOUT: "${HEARTBEAT_TIMEOUT:-1.5}"
+  HEARTBEAT_ENABLED: "${HEARTBEAT_ENABLED:-1}"
+  DATA_DIR: /dados
+  LOG_DIR: /logs
+  RUN_ID: "${RUN_ID:-desenvolvimento}"
+
+x-no: &no
+  build: .
+  image: mc714-trabalho2:dev
+  healthcheck:
+    test:
+      - CMD
+      - python
+      - -c
+      - "import urllib.request; urllib.request.urlopen('http://127.0.0.1:8000/health', timeout=2).read()"
+    interval: 3s
+    timeout: 3s
+    retries: 5
+    start_period: 3s
+
+services:
+  node1:
+    <<: *no
+    environment:
+      <<: *ambiente
+      NODE_ID: "no-1"
+    volumes:
+      - dados-no1:/dados
+      - ./results/dev/no-1/logs:/logs
+    ports:
+      - "127.0.0.1:8001:8000"
+  node2:
+    <<: *no
+    environment:
+      <<: *ambiente
+      NODE_ID: "no-2"
+    volumes:
+      - dados-no2:/dados
+      - ./results/dev/no-2/logs:/logs
+    ports:
+      - "127.0.0.1:8002:8000"
+  node3:
+    <<: *no
+    environment:
+      <<: *ambiente
+      NODE_ID: "no-3"
+    volumes:
+      - dados-no3:/dados
+      - ./results/dev/no-3/logs:/logs
+    ports:
+      - "127.0.0.1:8003:8000"
+
+volumes:
+  dados-no1:
+  dados-no2:
+  dados-no3:

@@ -1,0 +1,16 @@
+{
+  "no-1": {
+    "equipamento-17": {
+      "valor": "reservado",
+      "contador": 175,
+      "origem": "no-1"
+    }
+  },
+  "no-2": {
+    "equipamento-17": {
+      "valor": "reservado",
+      "contador": 175,
+      "origem": "no-1"
+    }
+  }
+}

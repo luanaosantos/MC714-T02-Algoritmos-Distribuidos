@@ -1,0 +1,14 @@
+{
+  "cenario": "delay_loss",
+  "ok": true,
+  "auditoria": {
+    "ok": true,
+    "erros": [],
+    "eventos": 230,
+    "envios": 55,
+    "recebimentos": 47,
+    "confirmacoes": 44,
+    "geracoes": 3
+  },
+  "duracao_s": 20.357299926996347
+}

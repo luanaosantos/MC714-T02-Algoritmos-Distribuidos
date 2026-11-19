@@ -1,0 +1,38 @@
+{
+  "algoritmo": "gossip",
+  "nivel": 0.5,
+  "cenario": "crash",
+  "ok": true,
+  "amostras_ms": [
+    4608.966904,
+    558.282728,
+    688.036932,
+    544.01987,
+    682.343648,
+    569.56504,
+    7700.726694,
+    10507.608299,
+    629.769558,
+    612.714473
+  ],
+  "run_id": "gossip-0.5-crash-r2",
+  "seed": 103,
+  "environment": "local-compose",
+  "confirmacao_crash_ms": 913.841003,
+  "duracao_medida_s": 27.102059504002682,
+  "nos_observados": [
+    "no-1",
+    "no-2"
+  ],
+  "auditoria": {
+    "ok": true,
+    "erros": [],
+    "eventos": 132,
+    "envios": 33,
+    "recebimentos": 24,
+    "confirmacoes": 24,
+    "geracoes": 3
+  },
+  "envios": 20,
+  "bytes_json": 8983
+}

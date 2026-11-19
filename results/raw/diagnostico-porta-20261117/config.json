@@ -1,0 +1,5 @@
+{
+  "backend": "compose",
+  "gossip": false,
+  "heartbeat": false
+}

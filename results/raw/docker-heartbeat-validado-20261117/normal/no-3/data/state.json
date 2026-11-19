@@ -1,0 +1,1 @@
+{"catalogo": {"equipamento-17": {"contador": 53, "origem": "no-1", "valor": "disponivel"}}, "contador": 133, "falhas": {"atraso_ms": 0, "bloqueados": [], "duplicacao": 0, "perda": 0, "tipos": ["texto", "gossip", "heartbeat"]}, "geracao": 1, "no": "no-3", "schema": 1}

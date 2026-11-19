@@ -1,0 +1,10 @@
+{
+  "backend": "compose",
+  "nodes": 3,
+  "seed": 7,
+  "gossip_interval": 0.1,
+  "heartbeat_interval": 0.1,
+  "heartbeat_timeout": 0.6,
+  "warmup": 0.3,
+  "ambiente": "cloud-ic"
+}

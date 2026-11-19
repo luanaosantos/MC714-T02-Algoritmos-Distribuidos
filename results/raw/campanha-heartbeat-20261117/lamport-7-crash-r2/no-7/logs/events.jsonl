@@ -1,0 +1,2 @@
+{"run_id": "lamport-7-crash-r2", "no": "no-7", "geracao": 1, "wall_time": "2026-11-17T04:34:44.943958+00:00", "sequencia": 1, "evento": "boot", "marca": 1, "tempo_ns": 76783849128872}
+{"run_id": "lamport-7-crash-r2", "no": "no-7", "geracao": 1, "wall_time": "2026-11-17T04:34:50.129585+00:00", "sequencia": 2, "evento": "local", "marca": 2, "tempo_ns": 76789034734053, "rotulo": "medicao_inicio"}

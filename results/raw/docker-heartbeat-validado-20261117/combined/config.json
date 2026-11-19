@@ -1,0 +1,10 @@
+{
+  "backend": "compose",
+  "nodes": 3,
+  "seed": 7,
+  "gossip_interval": 0.1,
+  "heartbeat_interval": 0.1,
+  "heartbeat_timeout": 3.0,
+  "warmup": 1.0,
+  "ambiente": "local-compose"
+}

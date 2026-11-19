@@ -1,0 +1,9 @@
+{
+  "antes": "http://127.0.0.1:61345",
+  "depois": "http://127.0.0.1:61349",
+  "saude_nova": {
+    "no": "no-3",
+    "status": "ok"
+  },
+  "erro_antiga": "<urlopen error [Errno 111] Connection refused>"
+}

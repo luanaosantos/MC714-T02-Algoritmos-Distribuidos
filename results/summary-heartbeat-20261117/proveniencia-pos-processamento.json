@@ -1,0 +1,10 @@
+{
+  "coleta_source_sha256": "1fe9e3a10c8d1f9ee1c2c809091770decff7b7fbefde61030f1e439557dbadeb",
+  "nota": "Pós-processamento e edição de texto posteriores à coleta; app/runtime/run_experiments permanecem iguais aos medidos. Sem backups de fonte.",
+  "arquivos": {
+    "scripts/analyze.py": "2c5b36d9984903d26b79be45f7db324522b55528592cd845d875f00728be5495",
+    "scripts/build_report.py": "73d37378a82f68b98afb6f99dccc052318a53ddf33fe5727dd0f1d06f886d8d8",
+    "results/summary-heartbeat-20261117/summary.json": "afd8e6611a272a0b1430aa49c460a435967f65b355fc5ca1200aa03fc40a344c",
+    "results/summary-heartbeat-20261117/metrics.csv": "6790af207304ea1d36f110e8ef33704afa117d9748db9110313b74214f7956bd"
+  }
+}

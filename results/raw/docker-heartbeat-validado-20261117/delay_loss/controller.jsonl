@@ -1,0 +1,10 @@
+{"evento": "cluster_pronto", "tempo_ns": 76277249052684}
+{"evento": "convergencia_inicial", "tempo_ns": 76279301709615}
+{"evento": "regras", "tempo_ns": 76279553600766, "alvo": "no-1", "regras": {"bloqueados": [], "atraso_ms": 20, "perda": 0.2, "duplicacao": 0.3, "tipos": ["texto", "gossip", "heartbeat"]}}
+{"evento": "regras", "tempo_ns": 76279692246329, "alvo": "no-2", "regras": {"bloqueados": [], "atraso_ms": 20, "perda": 0.2, "duplicacao": 0.3, "tipos": ["texto", "gossip", "heartbeat"]}}
+{"evento": "regras", "tempo_ns": 76279911586392, "alvo": "no-3", "regras": {"bloqueados": [], "atraso_ms": 20, "perda": 0.2, "duplicacao": 0.3, "tipos": ["texto", "gossip", "heartbeat"]}}
+{"evento": "regras", "tempo_ns": 76284600097906, "alvo": "no-1", "regras": {"bloqueados": [], "atraso_ms": 0, "perda": 0, "duplicacao": 0, "tipos": ["texto", "gossip", "heartbeat"]}}
+{"evento": "regras", "tempo_ns": 76284886847816, "alvo": "no-2", "regras": {"bloqueados": [], "atraso_ms": 0, "perda": 0, "duplicacao": 0, "tipos": ["texto", "gossip", "heartbeat"]}}
+{"evento": "regras", "tempo_ns": 76285115934104, "alvo": "no-3", "regras": {"bloqueados": [], "atraso_ms": 0, "perda": 0, "duplicacao": 0, "tipos": ["texto", "gossip", "heartbeat"]}}
+{"evento": "rede_restaurada", "tempo_ns": 76285119331265}
+{"evento": "cluster_encerrado", "tempo_ns": 76292401920269}

@@ -1,0 +1,8 @@
+{"evento": "cluster_pronto", "tempo_ns": 76119427842963}
+{"evento": "convergencia_inicial", "tempo_ns": 76121345743021}
+{"evento": "regras", "tempo_ns": 76122146420988, "alvo": "no-1", "regras": {"bloqueados": ["no-2", "no-3"], "atraso_ms": 0, "perda": 0, "duplicacao": 0, "tipos": ["texto", "gossip", "heartbeat"]}}
+{"evento": "regras", "tempo_ns": 76122582433433, "alvo": "no-2", "regras": {"bloqueados": ["no-1"], "atraso_ms": 0, "perda": 0, "duplicacao": 0, "tipos": ["texto", "gossip", "heartbeat"]}}
+{"evento": "regras", "tempo_ns": 76122929006346, "alvo": "no-3", "regras": {"bloqueados": ["no-1"], "atraso_ms": 0, "perda": 0, "duplicacao": 0, "tipos": ["texto", "gossip", "heartbeat"]}}
+{"evento": "particao", "tempo_ns": 76122933052236, "grupos": [["no-1"], ["no-2", "no-3"]]}
+{"evento": "crash", "tempo_ns": 76125687396893, "alvo": "no-3"}
+{"evento": "cluster_encerrado", "tempo_ns": 76151205634146}

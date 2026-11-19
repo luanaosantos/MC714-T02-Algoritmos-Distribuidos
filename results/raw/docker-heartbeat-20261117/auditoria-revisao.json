@@ -1,0 +1,56 @@
+{
+  "results/raw/docker-heartbeat-20261117/combined": {
+    "ok": true,
+    "erros": [],
+    "eventos": 1134,
+    "envios": 445,
+    "recebimentos": 115,
+    "confirmacoes": 114,
+    "geracoes": 4
+  },
+  "results/raw/docker-heartbeat-20261117/crash": {
+    "ok": true,
+    "erros": [],
+    "eventos": 400,
+    "envios": 108,
+    "recebimentos": 90,
+    "confirmacoes": 89,
+    "geracoes": 3
+  },
+  "results/raw/docker-heartbeat-20261117/delay_loss": {
+    "ok": true,
+    "erros": [],
+    "eventos": 302,
+    "envios": 73,
+    "recebimentos": 69,
+    "confirmacoes": 69,
+    "geracoes": 3
+  },
+  "results/raw/docker-heartbeat-20261117/normal": {
+    "ok": true,
+    "erros": [],
+    "eventos": 294,
+    "envios": 77,
+    "recebimentos": 68,
+    "confirmacoes": 68,
+    "geracoes": 3
+  },
+  "results/raw/docker-heartbeat-20261117/partition": {
+    "ok": true,
+    "erros": [],
+    "eventos": 506,
+    "envios": 163,
+    "recebimentos": 79,
+    "confirmacoes": 79,
+    "geracoes": 3
+  },
+  "results/raw/docker-heartbeat-20261117/restart": {
+    "ok": true,
+    "erros": [],
+    "eventos": 951,
+    "envios": 241,
+    "recebimentos": 224,
+    "confirmacoes": 218,
+    "geracoes": 4
+  }
+}

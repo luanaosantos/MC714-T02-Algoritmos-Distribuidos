@@ -1,0 +1,3 @@
+# Dependência direta das ferramentas de análise e geração de figuras.
+# Para reproduzir o ambiente utilizado, instale requirements-dev.lock.txt.
+matplotlib>=3.8,<4

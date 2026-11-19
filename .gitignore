@@ -1,0 +1,18 @@
+.venv/
+.build/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.env
+.env.*
+!.env.example
+*.aux
+*.log
+*.out
+# Dados brutos e relatórios NÃO são ignorados.
+
+# Pacotes de atualização extraídos
+mc714-completo/
+mc714_trabalho2_completo.zip
+bloco-gossip/
+bloco_gossip_mc714.zip

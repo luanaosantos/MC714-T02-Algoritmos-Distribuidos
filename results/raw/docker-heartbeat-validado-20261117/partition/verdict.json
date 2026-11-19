@@ -1,0 +1,14 @@
+{
+  "cenario": "partition",
+  "ok": true,
+  "auditoria": {
+    "ok": true,
+    "erros": [],
+    "eventos": 460,
+    "envios": 144,
+    "recebimentos": 75,
+    "confirmacoes": 75,
+    "geracoes": 3
+  },
+  "duracao_s": 19.591036596000777
+}

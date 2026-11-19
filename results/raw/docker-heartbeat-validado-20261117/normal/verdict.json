@@ -1,0 +1,14 @@
+{
+  "cenario": "normal",
+  "ok": true,
+  "auditoria": {
+    "ok": true,
+    "erros": [],
+    "eventos": 360,
+    "envios": 94,
+    "recebimentos": 83,
+    "confirmacoes": 83,
+    "geracoes": 3
+  },
+  "duracao_s": 14.850173334998544
+}

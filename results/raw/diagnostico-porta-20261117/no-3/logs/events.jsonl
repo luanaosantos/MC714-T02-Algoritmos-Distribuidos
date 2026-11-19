@@ -1,0 +1,2 @@
+{"run_id": "diagnostico-porta-20261117", "no": "no-3", "geracao": 1, "wall_time": "2026-11-17T04:24:50.718276+00:00", "sequencia": 1, "evento": "boot", "marca": 1, "tempo_ns": 76180056574945}
+{"run_id": "diagnostico-porta-20261117", "no": "no-3", "geracao": 2, "wall_time": "2026-11-17T04:24:53.523571+00:00", "sequencia": 1, "evento": "boot", "marca": 2, "tempo_ns": 76182861948046}

@@ -1,0 +1,14 @@
+{
+  "cenario": "combined",
+  "ok": true,
+  "auditoria": {
+    "ok": true,
+    "erros": [],
+    "eventos": 497,
+    "envios": 177,
+    "recebimentos": 59,
+    "confirmacoes": 59,
+    "geracoes": 4
+  },
+  "duracao_s": 19.945176039997023
+}

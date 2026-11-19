@@ -1,0 +1,4 @@
+{"evento": "cluster_pronto", "tempo_ns": 76730595129700}
+{"evento": "crash_inicio", "tempo_ns": 76732842843270, "alvo": "no-7"}
+{"evento": "crash", "tempo_ns": 76733584497276, "alvo": "no-7"}
+{"evento": "cluster_encerrado", "tempo_ns": 76752784518956}

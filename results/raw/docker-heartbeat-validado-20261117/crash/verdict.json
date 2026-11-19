@@ -1,0 +1,14 @@
+{
+  "cenario": "crash",
+  "ok": true,
+  "auditoria": {
+    "ok": true,
+    "erros": [],
+    "eventos": 401,
+    "envios": 108,
+    "recebimentos": 91,
+    "confirmacoes": 89,
+    "geracoes": 3
+  },
+  "duracao_s": 19.6572370849899
+}

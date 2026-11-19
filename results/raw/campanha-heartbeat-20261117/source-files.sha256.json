@@ -1,0 +1,23 @@
+{
+  "app/__init__.py": "93facfbc9e1253465a918baf086b9c16f364779c0b42dbf0ab73bb92c67ecd0b",
+  "app/faults.py": "3c224d2eb4f28eeabbbc6d47fbc9f2ca3014b4b05d43d18fb034341f5228e918",
+  "app/gossip.py": "eb83215b4026abf234b992b6397ba098c2b07abcab08e2065b0630b2caf77077",
+  "app/heartbeat.py": "5c6b3646ee3925c1147da98169ecb577c8d34da427fd07daf9f49258e205f57c",
+  "app/lamport.py": "d35452b6633cc526de74586545a0a87cc76bd077e7ade6245980b97ee1ae1cac",
+  "app/main.py": "4a745ae534a358bdb07af83bce5a743798c106784649c11628f94b8272aaa451",
+  "app/node.py": "180a2964f17c0df804fbe16f68683bdb1c411d1a37500b26b0cbfb1115655a46",
+  "app/persistence.py": "fff031d23b1db5e715a5541eef2141f8176c6be328a3834aba9385594a38134a",
+  "app/store.py": "eeea2d960b5703fd1dd18d6e0741c88debd7152718f3293533ae2abdaed0435c",
+  "app/transport.py": "f4a6090f81c514804e1f34dee131941d0045a73c06e73d474fe9e69ddb13ef77",
+  "scripts/__init__.py": "0e4e8a7a8125ccd9d7409fb2cf11cbee0c6c6f07f20d6e1b572f9c70044252e6",
+  "scripts/analyze.py": "3c9b172816078ae1e2381357abb101046c676b21ab0dd719a82a89241f49ee24",
+  "scripts/build_report.py": "53bf0cb659e0bf2bfd11622156bcb374b278d4a39509f40c69d59c350a7d09c8",
+  "scripts/check_logs.py": "cdbca113d488c95687687c358ee5241087ded61dde87c971e9835815460d38e4",
+  "scripts/client.py": "12b464d760722431c691d4ebed3b55e1097c4e28607eb11ca595fd85f9339499",
+  "scripts/generate_config.py": "3609f575c85c18a67883153dafc3a5b3027177e6ed6a9441389a95bb8ef92a10",
+  "scripts/run_experiments.py": "52c532cd1d298b4fa3f418956b7425a65ac9ad81668e94f5375d921c1570f5b0",
+  "scripts/run_scenario.py": "5958aaa0e4787de14d2daa467e403d4b688e157e8863936df946baaf8b81d9a6",
+  "scripts/runtime.py": "09c5c2e3b30ba4c7bcc88c5badcede0c9c519ea87b9cdc9d0b589fe3b31bd54d",
+  "scripts/validar_entrega.py": "8d9da70fd9c9e09adae887699767841ed1cc992728bf24afa626560ab27c0fc3",
+  "scripts/verificar_gossip.py": "b5fbc25efdcad8525c8ef15cc4c4dac7efe3508c10cb8542e32d3836bedc125d"
+}

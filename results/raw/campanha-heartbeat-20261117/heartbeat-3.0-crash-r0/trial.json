@@ -1,0 +1,31 @@
+{
+  "algoritmo": "heartbeat",
+  "nivel": 3.0,
+  "cenario": "crash",
+  "ok": true,
+  "amostras_ms": [
+    2459.763518,
+    3349.468766
+  ],
+  "run_id": "heartbeat-3.0-crash-r0",
+  "seed": 101,
+  "environment": "local-compose",
+  "confirmacao_crash_ms": 1578.854862,
+  "metrica": "inicio_da_injecao_ate_suspeita_observada_ms",
+  "duracao_medida_s": 1.778379319992382,
+  "nos_observados": [
+    "no-1",
+    "no-2"
+  ],
+  "auditoria": {
+    "ok": true,
+    "erros": [],
+    "eventos": 191,
+    "envios": 48,
+    "recebimentos": 39,
+    "confirmacoes": 38,
+    "geracoes": 3
+  },
+  "envios": 25,
+  "bytes_json": 3275
+}
