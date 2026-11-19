@@ -16,3 +16,6 @@ mc714-completo/
 mc714_trabalho2_completo.zip
 bloco-gossip/
 bloco_gossip_mc714.zip
+
+# Local interactive runtime logs
+results/dev/
